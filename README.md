@@ -18,6 +18,7 @@ With **11 years of professional experience**, in high-criticality environments a
 ### 🧪 Featured QA Projects (TripleTen)
 * **Urban Routes:** Comprehensive E2E testing for a transportation service app, focusing on business logic and UI/UX consistency.
 * **Urban Grocers:** API validation for delivery services, ensuring data integrity across critical endpoints using Postman.
+* UrbanLunch: End-to-end QA testing for a food delivery application, focusing on functional verification of the dish selection and order tracking flows using Android Studio and Jira.
 
 ---
 
