@@ -2,7 +2,7 @@
 
 ### QA Engineer | Industrial Automation Specialist | Precision & Quality Advocate
 
-With **11 years of professional experience**, in high-criticality environments in Automatization and instrumentation controls, at the **National Center for Scientific Research (CNIC)** ( La Habana, Cuba) , I have developed a professional DNA rooted in technical rigor and zero-tolerance for error. Currently, I am leveraging my background in automated systems to ensure software excellence as a **QA Engineer** through **TripleTen**.
+With **11 years of professional experience**, in high-criticality environments in Instrumetation and Automatic controls, at the **National Center for Scientific Research (CNIC)** ( La Habana, Cuba) , I have developed a professional DNA rooted in technical rigor and zero-tolerance for error. Currently, I am leveraging my background in automated systems to ensure software excellence as a **QA Engineer** through **TripleTen**.
 
 ---
 
