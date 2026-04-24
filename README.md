@@ -10,8 +10,8 @@ With **11 years of professional experience**, in high-criticality environments i
 * **Manual & Functional Testing:** Test Case Design, Bug Reporting (Jira), Regression Testing, Design Testing.
 * **API Testing:** Extensive use of **Postman**, Swagger, and ApiDoc for endpoint validation and data integrity.
 * **PostgreSQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="20" height="20"/>
-Bases de datos: Gestión y consulta de bases de datos relacionales mediante PostgreSQL, incluyendo la ejecución de consultas complejas (SQL) para la validación de integridad de datos y pruebas de backend.
-*   Sistemas y Consola: Manejo de terminal Unix Shell mediante Cygwin, navegación de directorios y gestión de logs de servidor para el diagnóstico de errores de backend.
+Databases: Relational database management using PostgreSQL, including complex SQL queries for data integrity validation and backend testing.
+*  Systems & Console: Terminal management via Unix Shell (Cygwin), directory navigation, and server log analysis for root cause diagnosis of backend errors.
 * **Web Testing:** Cross-browser and responsive testing using **Chrome DevTools**.
 * **Design Strategies:** Equivalence Partitioning, Boundary Value Analysis, Positive/Negative testing.
 * **Methodologies:** Agile (Scrum) and SDLC.
